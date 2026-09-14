@@ -1,1 +1,2 @@
-# exemplo02-cont-turmaC
+# exemplo2-spring-boot-turmaC
+Comandos Básicos (CRUD)
